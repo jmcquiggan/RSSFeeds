@@ -1,0 +1,60 @@
+﻿url,description
+https://404.feed.press/private?key=8b6d0756127d1020971e9bd41da5e773,404 Media
+http://feeds.arstechnica.com/arstechnica/index/,Ars Technica
+https://cybersecurity.att.com/blogs/labs-research/rss,AT&T Alien Labs
+https://www.bankinfosecurity.com/rss,BankInfoSecurity
+https://www.bleepingcomputer.com/feed/,BleepingComputer
+https://www.cisecurity.org/feed/,Center for Internet Security (CIS)
+https://research.checkpoint.com/feed/,Check Point Research
+https://www.cisa.gov/uscert/ncas/all.xml,CISA Cybersecurity Alerts
+https://blog.talosintelligence.com/feeds/posts/default,Cisco Talos Blog
+https://www.crowdstrike.com/blog/feed/,CrowdStrike Blog
+https://www.cyberscoop.com/feed/,CyberScoop
+https://www.cybersecurity-insiders.com/feed/,Cybersecurity Insiders
+https://danielmiessler.com/blog/feed/rss/,Daniel Miessler’s Blog
+https://www.darkreading.com/rss.xml,Dark Reading
+https://www.databreaches.net/feed/,Databreaches.net
+https://www.eff.org/rss/updates.xml,Electronic Frontier Foundation (EFF)
+https://www.esecurityplanet.com/feed/,eSecurityPlanet
+https://www.exploit-db.com/rss.xml,Exploit Database (Offensive Security)
+https://www.govinfosecurity.com/rss,GovInfoSecurity
+https://grahamcluley.com/feed/,Graham Cluley’s Blog
+https://www.hackread.com/feed/,HackRead
+https://haveibeenpwned.com/Feed,Have I Been Pwned (Troy Hunt)
+https://www.healthcareinfosecurity.com/rss,HealthcareInfoSecurity
+https://www.cisa.gov/uscert/ics/alerts.xml,ICS-CERT Alerts
+https://www.infosecurity-magazine.com/rss/news/,Infosecurity Magazine
+https://inteltechniques.com/blog/feed/,IntelTechniques Blog
+https://iapp.org/rss/news/,International Association of Privacy Professionals (IAPP) News
+https://krebsonsecurity.com/feed/,Krebs on Security
+https://www.lawfaremedia.org/rss.xml,Lawfare Blog: Cybersecurity
+https://blog.malwarebytes.com/feed/,Malwarebytes Labs
+https://www.mandiant.com/resources/rss,Mandiant Blog
+https://attack.mitre.org/feed.xml,MITRE ATT&CK Blog
+https://www.reddit.com/r/netsec/.rss,Netsec Focus (/r/netsec)
+https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml,NIST NVD Vulnerability Feeds
+https://packetstormsecurity.com/feeds/,Packet Storm Security
+https://unit42.paloaltonetworks.com/feed/,Palo Alto Unit 42
+https://www.privacyaffairs.com/feed/,Privacy Affairs News
+https://www.proofpoint.com/us/rss.xml,Proofpoint Threat Insights
+https://www.rapid7.com/blog/rss/,Rapid7 Blog
+https://redcanary.com/feed/,Red Canary Blog
+https://risky.biz/rss/,Risky Business Newsfeed
+https://isc.sans.edu/rssfeed.xml,SANS Internet Storm Center Diary
+https://www.scmagazine.com/home/feed/,SC Media
+https://www.schneier.com/feed/atom/,Schneier on Security
+https://www.secureworks.com/rss/threats,Secureworks Threat Group Research
+http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds,Security on TechRepublic
+https://www.securityfocus.com/rss/vulnerabilities.xml,SecurityFocus Bugtraq
+https://feeds.feedburner.com/securityweek,SecurityWeek
+https://news.sophos.com/en-us/feed/,Sophos News
+https://symantec-enterprise-blogs.security.com/rss,Symantec Threat Intelligence
+https://www.nist.gov/blogs/taking-measure/rss.xml,Taking Measure
+https://thecyberwire.com/feeds/rss.xml,The CyberWire
+https://feeds.feedburner.com/TheHackersNews,The Hacker News
+https://therecord.media/feed,The Record (Recorded Future)
+https://threatpost.com/feed/,Threatpost
+https://www.troyhunt.com/rss/,Troy Hunt’s Blog
+https://unit42.paloaltonetworks.com/feed/,Unit 42
+https://xkcd.com/rss.xml,Xkcd
+https://www.zerodayinitiative.com/rss.xml,Zero Day Initiative (Trend Micro)
